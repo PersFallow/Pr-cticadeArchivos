@@ -1,4 +1,4 @@
-# Pr-cticadeArchivos
+# CRUD en C
 CRUD de datos con funciones de ordenamiento y búsqueda.
 
 Estuve trabajando en esto por un mes y algo aproximadamente, pero por fin logré terminar mi proyecto final de Algoritmos y Programación I, primera materia de programación que se ve para la carrera de ingeniería informática en la Universidad de Buenos Aires, y está orientada en introducirnos a las bases de la programación estructurada y algoritmia.
